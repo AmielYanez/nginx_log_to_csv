@@ -1,7 +1,7 @@
 import pytest
 import time
 import os
-from log_to_csv import export_data
+from app.log_to_csv import export_data
 
 
 class TestLogToCSV():
